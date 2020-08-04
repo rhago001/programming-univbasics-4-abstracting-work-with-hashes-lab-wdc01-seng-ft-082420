@@ -8,7 +8,7 @@ def my_hash_creator(key, value)
 end
 
 def working_with_hashes(name,value)
-     {:name=>value}
+     {name=>value}
 
 end
 
